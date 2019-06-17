@@ -1,0 +1,8 @@
+#
+# fips-gpumpm
+#
+---
+imports:
+    zlib:
+      git: https://github.com/floooh/fips-zlib.git
+

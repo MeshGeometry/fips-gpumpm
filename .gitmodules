@@ -1,0 +1,6 @@
+[submodule "GPUMPM"]
+	path = GPUMPM
+	url = https://github.com/kuiwuchn/GPUMPM.git
+[submodule "partio"]
+	path = partio
+	url = https://github.com/wdas/partio.git
